@@ -1,1 +1,1 @@
-console.log("Website Ready");
+console.log("Pet Home Care Ready");
