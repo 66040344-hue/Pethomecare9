@@ -1,0 +1,45 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+nav {
+  background: #333;
+  color: white;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav a {
+  color: white;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+.hero {
+  background: #f2f2f2;
+  text-align: center;
+  padding: 60px;
+}
+
+section {
+  padding: 40px;
+}
+
+footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
